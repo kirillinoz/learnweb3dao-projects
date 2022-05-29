@@ -368,7 +368,7 @@ export default function Home() {
         <div>
           <h1 className={styles.title}>Welcome to Crypto Boiiis!</h1>
           <div className={styles.description}>
-            It's an NFT collection for boiiis in crypto.
+            It&apos;s an NFT collection for boiiis in crypto.
           </div>
           <div className={styles.description}>
             {tokenIdsMinted}/20 have been minted
